@@ -1,0 +1,48 @@
+{
+  "section": [
+    {
+      "id": "explore-section",
+      "class": "explore-world",
+      "h2":  "Explore the world of management"
+      ,
+      "h5":  "As a project manager, you play an important role in learning a project through initiation, planning, executing, managing, containing, and completion. How? Do you want to manage each and every step of your life?"
+    },
+    {
+      "id": "description-section",
+      "class": "box-info",
+      "h2":  "Technology Project Management"
+       ,
+      "h5": "<b>Description</b>: Study of alignment scope of agile-specific accountable staggering approach"
+      ,
+      "ytlink":"https://www.youtube.com/embed/igiTFm_rP4E?si=VCsobWz1Fiwaq64C"
+    },
+    {
+      "id": "build-section",
+      "class": "box-info",
+      "h2": "Threadbuild"
+      ,
+      "h5":  "<b>Description</b>: Watch live video and thread build, and jot out key threads while watching that video."
+      
+    },
+    {
+      "id": "structure-section",
+      "class": "box-info1",
+      "h2":  "Structure your pointers"
+      ,
+      "h5": "<b>Description</b>: Write a 300-400 word article from your thread. Publish your understanding and showcase your understanding to the entire world."
+  
+    },
+    {
+      "id": "4sa-section",
+      "class": "box-info1",
+      "h1": "4SA Method"
+      ,
+      "h2": "<b>Description</b>: Study of alignment scope of agile-specific accountable staggering approach"
+      ,
+      "a": {
+        "href": "https://dtthon.deepthought.education/sharer?id=01aa3cff-db8e-8d9d-afc0-1671715937878",
+        "text": "Read More"
+      }
+    }
+  ]
+}
